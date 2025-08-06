@@ -3,7 +3,7 @@
   <h1 align="center">Self</h1>
 </a>
 
-<p align="center">
+<p align="center"> Let's Go!
   An open source personal site builder. Powered by Together.ai.
 </p>
 
